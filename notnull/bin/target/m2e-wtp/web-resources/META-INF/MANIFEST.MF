@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: HJSO
 Build-Jdk: 1.8.0_191
 Created-By: Maven Integration for Eclipse
 
-=======
-Manifest-Version: 1.0
-Built-By: HJSO
-Build-Jdk: 1.8.0_191
-Created-By: Maven Integration for Eclipse
-
->>>>>>> 7072e1210edcbbbbcb48885318d0273e8ca9b680
