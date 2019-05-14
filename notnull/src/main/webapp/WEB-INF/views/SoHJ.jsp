@@ -21,9 +21,14 @@
 <h1>이수원 팀장 이수원빈11111</h1>
 <h2>바이바이</h2>
 <h2>컴온</h2>
+<<<<<<< HEAD
+<h3>바보</h3>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+=======
 <h3>바보123123</h3>
 
+>>>>>>> bda5eac163a0073e43032768f91e774d1615368a
 <h5>병남형 나빠요~</h5>
+<h6>aaaa</h6>
 </body>
->>>>>>> 7072e1210edcbbbbcb48885318d0273e8ca9b680
 </html>
