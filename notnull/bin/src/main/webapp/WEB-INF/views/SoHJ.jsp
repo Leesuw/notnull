@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<<<<<<< HEAD
 </head>
 <body>
 
@@ -15,6 +16,8 @@
 
 </body>
 =======
+=======
+>>>>>>> b000ea744c0dd4d20149fa8b97cbccf1e5929b83
 
 </head>
 <body>
@@ -22,12 +25,17 @@
 <h2>바이바이</h2>
 <h2>컴온</h2>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h3>바보</h3>
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 =======
 <h3>바보123123</h3>
 
 >>>>>>> bda5eac163a0073e43032768f91e774d1615368a
+=======
+<h3>바보123123</h3>
+
+>>>>>>> b000ea744c0dd4d20149fa8b97cbccf1e5929b83
 <h5>병남형 나빠요~</h5>
 <h6>aaaa</h6>
 </body>
